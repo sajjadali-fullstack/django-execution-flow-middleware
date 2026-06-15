@@ -1,4 +1,13 @@
 # django-execution-flow-middleware
+## # Django Execution Flow Middleware
+
+## 📖 Overview
+
+This project demonstrates how Django custom middleware participates in the request-response lifecycle. It shows middleware initialization, request pre-processing, view execution, and response post-processing using a simple function-based view.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Django](https://img.shields.io/badge/Django-Framework-green)
+![Middleware](https://img.shields.io/badge/Topic-Middleware-orange)
 
 A minimal Django project demonstrating how **custom middleware** intercepts every HTTP request and response in the WSGI pipeline.
 
